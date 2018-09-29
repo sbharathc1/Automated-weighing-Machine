@@ -1,2 +1,1 @@
-# Automated-weighing-Machine
-IoT based Automated Weighing Machine
+# Automated-Weighing-Machine
